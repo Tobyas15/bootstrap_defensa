@@ -1,0 +1,33 @@
+img{
+    border-radius: 2px;
+    width: 100%;
+    margin: 10px;
+    border-radius: 10px;
+}
+.container{
+    background-color: blanchedalmond;
+    margin: 10px;
+    
+    
+}
+
+.navbar{
+    background-color: rgb(14, 141, 20);
+}
+
+.container1{
+    background-color: red;
+    margin: 10px;
+}
+.col{
+    margin: 10px;
+
+}
+.table{
+    margin: 10px;
+   
+}
+.texto{
+    border-color: rgb(20, 20, 20);
+    border: 10px;
+}
